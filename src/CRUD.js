@@ -86,7 +86,7 @@ const TableComponent = () => {
         });
     }
   };
-
+ 
   const handleUpdate = () => {
     const updatedEmployee = {
       name: editName,
